@@ -7,3 +7,6 @@ colocando novas funções para uma nova branch
 3
 4
 5
+
+
+Adicionando uma tag no arquivo.
